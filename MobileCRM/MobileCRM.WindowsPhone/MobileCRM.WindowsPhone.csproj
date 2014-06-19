@@ -17,7 +17,7 @@
     </SupportedCultures>
     <XapOutputs>true</XapOutputs>
     <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
-    <XapFilename>MobileCRM.WindowsPhone_Debug_AnyCPU.xap</XapFilename>
+    <XapFilename>MobileCRM.WindowsPhone_Release_AnyCPU.xap</XapFilename>
     <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
     <SilverlightAppEntry>MobileCRM.WindowsPhone.App</SilverlightAppEntry>
     <ValidateXaml>true</ValidateXaml>
